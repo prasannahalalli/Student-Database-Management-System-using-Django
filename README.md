@@ -80,6 +80,4 @@ Access the application at **http://127.0.0.1:8000/**
 ## 🤝 Contributing
 Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or submit a pull request.
 
-## 📬 Contact
-For any queries, reach out at [your-email@example.com](mailto:your-email@example.com).
 
