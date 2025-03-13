@@ -72,10 +72,6 @@ python manage.py runserver
 ```
 Access the application at **http://127.0.0.1:8000/**
 
-## 📸 Screenshots
-![Home Page](screenshots/home.png)
-![Student List](screenshots/students_list.png)
-
 ## 👨‍💻 Usage
 1. Admin can add, update, and delete student records.
 2. Users can search for student details using filters.
